@@ -23,7 +23,7 @@ class Namora(QtWidgets.QMainWindow, Ui_MainWindow):
           
           
     def euTeAmo(self):
-          self.label.setText("Eu te Amo!!")
+          self.label.setText("Eu te Amo Véia!!")
           self.button_yes.setEnabled(False)
           self.button_no.setEnabled(False)
 
